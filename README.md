@@ -13,8 +13,8 @@ This is a simple Python application for managing a fictional ice cream parlor us
 
 1. **Build and run the Docker container**
     ```
-    docker build -t ice_cream_parlor .
-    docker run -p 5000:5000 ice_cream_parlor
+    docker build -t iceCreamParlor .
+    docker run -p 5000:5000 iceCreamParlor
     ```
 
 2. **Access the application**
